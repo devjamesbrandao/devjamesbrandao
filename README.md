@@ -1,4 +1,4 @@
-## Hello, I'm James Noleto Brandao da Silva, but you can call me James Bond 😎
+## Hello, I'm James, but you can call me James Bond 😎
  -🔭 Currently, I am a junior ASP.NET Core developer, with emphasis on back-end.
  <br />
  -🌱 I study mostly C# and ASP.NET Core, but also like SQL, Information Security, and DevOps
